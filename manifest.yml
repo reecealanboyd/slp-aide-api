@@ -1,4 +1,5 @@
 applications:
   - name: slp-aide-api-dev
+    command: node .
     random-route: true
     memory: 256M
