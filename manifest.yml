@@ -1,0 +1,3 @@
+applications:
+  - name: slp-aide-api-dev
+    memory: 256M

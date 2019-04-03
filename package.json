@@ -2,6 +2,9 @@
   "name": "slp-aide-api",
   "version": "1.0.0",
   "description": "The API for the SLP-Aide Application",
+  "engines": {
+    "node": "8.12.0"
+  },
   "keywords": [
     "loopback-application",
     "loopback"
